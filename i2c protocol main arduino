@@ -1,0 +1,9 @@
+
+Write:
+    Reg indx:
+        11 = servo (0 - 200)
+
+
+Read:
+    Reg indx:
+        any (A0) = temp senor
